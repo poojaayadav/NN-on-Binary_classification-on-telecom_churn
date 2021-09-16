@@ -7,6 +7,6 @@
 
 
 
-* Multi neuran classification ie binary classification
-* here we are using sigmoid activation fuction as it is as classification problem
-* model is using a sgd ie Stochastic gradient Desecnt
+* it is Multi neuran classification ie Binary classification problem so,
+* Here we are using Sigmoid activation fuction as it is as classification problem
+* In this model is using a sgd i.e. Stochastic gradient Desecnt
